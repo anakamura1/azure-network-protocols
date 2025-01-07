@@ -26,7 +26,7 @@ In this walkthrough, we will observe various forms of network traffic to and fro
 - Step 3: Observe the effect of NSG rules
 - Step 4: Observe various network protocols
 
-<h2>Actions and Observations</h2>
+<h2>Walkthrough Demonstration</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
