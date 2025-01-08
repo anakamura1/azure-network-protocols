@@ -74,7 +74,12 @@ Going back to the Virtual Machines home page, create another virtual machine. Be
 <p> Name this VM to indicate that it is the Linux VM, pick the same region as the Windows VM, and leave the zone selection as is unless prompted by Azure. </p>
 <br />
 
-<h1> INSERT IMAGE SHOWING UBUNTU IMAGE SELECTION</h1>
+<p>
+<img width="839" alt="Screenshot 2025-01-07 at 11 04 11 PM" src="https://github.com/user-attachments/assets/186ec692-9fc4-418c-a13c-ac4735f504b5" />
+</p>
+<p>
+For the image, please select Ubuntu Server 22.04. 2 vCPU's and 8Gib memory will suffice. </p>
+<br />
 
 
 <p>
